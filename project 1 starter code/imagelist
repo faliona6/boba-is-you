@@ -1,0 +1,189 @@
+
+black images/black.png
+black_test images/black_test.png
+
+background_default images/none.bmp
+
+rock images/rock1.png
+rock images/rock2.png
+rock images/rock3.png
+
+skull images/skull1.png
+skull images/skull2.png
+skull images/skull3.png
+
+baba images/baba1.png
+baba images/baba2.png
+baba images/baba3.png
+baba images/baba4.png
+
+baba_right images/baba_right1.png
+baba_right images/baba_right2.png
+baba_right images/baba_right3.png
+baba_right images/baba_right4.png
+
+baba_up images/baba_up1.png
+baba_up images/baba_up2.png
+baba_up images/baba_up3.png
+baba_up images/baba_up4.png
+
+baba_down images/baba_down1.png
+baba_down images/baba_down2.png
+baba_down images/baba_down3.png
+baba_down images/baba_down4.png
+
+wall images/wall1.png
+wall images/wall2.png
+wall images/wall3.png
+wall images/wall4.png
+
+floor images/floor1.png
+floor images/floor2.png
+floor images/floor3.png
+
+sparkle images/sparkle1.png
+sparkle images/sparkle2.png
+sparkle images/sparkle3.png
+sparkle images/sparkle4.png
+sparkle images/sparkle5.png
+sparkle images/sparkle6.png
+
+flag images/flag1.png
+flag images/flag2.png
+flag images/flag3.png
+flag images/flag4.png
+flag images/flag5.png
+
+dust images/dust1.png
+dust images/dust2.png
+dust images/dust3.png
+dust images/dust4.png
+
+dust_down images/dust_down1.png
+dust_down images/dust_down2.png
+dust_down images/dust_down3.png
+dust_down images/dust_down4.png
+
+dust_up images/dust_up1.png
+dust_up images/dust_up2.png
+dust_up images/dust_up3.png
+dust_up images/dust_up4.png
+
+dust_left images/dust_left1.png
+dust_left images/dust_left2.png
+dust_left images/dust_left3.png
+dust_left images/dust_left4.png
+
+dust_right images/dust_right1.png
+dust_right images/dust_right2.png
+dust_right images/dust_right3.png
+dust_right images/dust_right4.png
+
+
+
+noun_baba images/noun_baba1.png
+noun_baba images/noun_baba2.png
+noun_baba images/noun_baba3.png
+
+noun_rock images/noun_rock1.png
+noun_rock images/noun_rock2.png
+noun_rock images/noun_rock3.png
+
+noun_skull images/noun_skull1.png
+noun_skull images/noun_skull2.png
+noun_skull images/noun_skull3.png
+
+verb_push images/verb_push1.png
+verb_push images/verb_push2.png
+verb_push images/verb_push3.png
+
+verb_you images/verb_you1.png
+verb_you images/verb_you2.png
+verb_you images/verb_you3.png
+
+noun_flag images/noun_flag1.png
+noun_flag images/noun_flag2.png
+noun_flag images/noun_flag3.png
+
+
+verb_death images/verb_death1.png
+verb_death images/verb_death2.png
+verb_death images/verb_death3.png
+
+is images/is1.png
+is images/is2.png
+is images/is3.png
+is_inactive images/is1.png
+is_inactive images/is2.png
+is_inactive images/is3.png
+
+verb_stop images/verb_stop1.png
+verb_stop images/verb_stop2.png
+verb_stop images/verb_stop3.png
+
+verb_win images/verb_win1.png
+verb_win images/verb_win2.png
+verb_win images/verb_win3.png
+
+
+noun_wall_inactive images/noun_wall_inactive1.png
+noun_wall_inactive images/noun_wall_inactive2.png
+noun_wall_inactive images/noun_wall_inactive3.png
+
+noun_wall images/noun_wall1.png
+noun_wall images/noun_wall2.png
+noun_wall images/noun_wall3.png
+
+
+noun_grass_inactive images/noun_grass_inactive1.png
+noun_grass_inactive images/noun_grass_inactive2.png
+noun_grass_inactive images/noun_grass_inactive3.png
+
+noun_grass images/noun_grass1.png
+noun_grass images/noun_grass2.png
+noun_grass images/noun_grass3.png
+
+
+
+noun_baba_inactive images/noun_baba_inactive1.png
+noun_baba_inactive images/noun_baba_inactive2.png
+noun_baba_inactive images/noun_baba_inactive3.png
+
+noun_rock_inactive images/noun_rock_inactive1.png
+noun_rock_inactive images/noun_rock_inactive2.png
+noun_rock_inactive images/noun_rock_inactive3.png
+
+noun_skull_inactive images/noun_skull_inactive1.png
+noun_skull_inactive images/noun_skull_inactive2.png
+noun_skull_inactive images/noun_skull_inactive3.png
+
+verb_push_inactive images/verb_push_inactive1.png
+verb_push_inactive images/verb_push_inactive2.png
+verb_push_inactive images/verb_push_inactive3.png
+
+
+verb_you_inactive images/verb_you_inactive1.png
+verb_you_inactive images/verb_you_inactive2.png
+verb_you_inactive images/verb_you_inactive3.png
+
+
+verb_death_inactive images/verb_death_inactive1.png
+verb_death_inactive images/verb_death_inactive2.png
+verb_death_inactive images/verb_death_inactive3.png
+
+noun_flag_inactive images/noun_flag_inactive1.png
+noun_flag_inactive images/noun_flag_inactive2.png
+noun_flag_inactive images/noun_flag_inactive3.png
+
+verb_stop_inactive images/verb_stop_inactive1.png
+verb_stop_inactive images/verb_stop_inactive2.png
+verb_stop_inactive images/verb_stop_inactive3.png
+
+verb_win_inactive images/verb_win_inactive1.png
+verb_win_inactive images/verb_win_inactive2.png
+verb_win_inactive images/verb_win_inactive3.png
+
+grass images/grass1.png
+grass images/grass2.png
+grass images/grass3.png
+

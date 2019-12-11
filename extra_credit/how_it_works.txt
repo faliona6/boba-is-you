@@ -1,0 +1,16 @@
+How It Works!
+
+(I highly recommend playing the game before watching the video! Since it is a puzzle game, it's not as fun if you
+already know the answer)
+
+	MOVE (arrow keys also work) :
+		w - up		
+		a - left
+		s - down
+		d - right
+		
+	RESTART : r
+	NEXT STAGE (after you beat it) : mouse button
+	
+	Move around and solve the puzzles by making the rules of the world the way you want it. This game is inspired by 
+	the game Baba is You.

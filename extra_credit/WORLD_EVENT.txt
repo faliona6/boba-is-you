@@ -1,0 +1,13 @@
+World Event
+
+1. Every time a phrase is activated, it's possible to be a world changing
+event. 
+
+2. For example, if you have WALL IS BOBA, it will make all the walls Bobas.
+If you have ROCK IS PUSH, all of the rocks are pushable. 
+
+3. In the first example, all of the WALLS will now look like BOBAS and do
+whatever BOBA is set to do. If BOBA is PUSH, then walls will also be PUSH.
+
+4. The only new entities that get created after the game starts are sparkles
+(for items that are WIN) and dust that follows whatever is YOU.

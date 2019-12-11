@@ -1,0 +1,25 @@
+UML Description/Explanation 
+
+I split my Entity class into entities that are moveable since there are some entities, such as dust, that will 
+never move spaces. Moveable is split into two classes, Text and Character. Characters are all entities that can 
+be playable, such as Boba, Rock, Wall, Grass, Skull, etc. They are all under one class because they need to be 
+interchangeable—for example, a rock might turn into a wall, and I don’t want to have it be stuck as a Wall object. 
+Every character has attributes such as isStop or isWin, which is determined by the placement of the text and dictates 
+what happens when the character interacts with other characters. At first I had a field for determining what attributes
+each item had during parsing, but then I realized that you can scan through all the phrases at start and it sets the 
+attributes for all of them automatically. 
+
+For the Text class, it is divided into Noun, Verb, and Conjunction. We know when a phrase is activated by checking 
+if there is a consecutive noun, conjunction, and verb order. 
+
+One problem that I encountered was that I wanted to have multiple entities in the same space. I made each spot in the
+2D array hold a OccupancyHolder object that I created, and whenever you check for neighbors, you need to look through
+each item in the OccupancyHolder set. I encountered a lot of concurrent modification exceptions, so I had to make a 
+FunctionAction class which is used to schedule functions that I want to happen.
+
+I drew and animated all of the sprites (140 of them!), and if I could go back I would have changed the way the parsing
+of the file worked. I had to create a different function to parse all the different kinds of characters/text. And 
+instead of using individual .png files, it would have been better to use gifs or sprite sheets instead to make it easier
+to edit. This made creating all 5 levels pretty tedious, but it was also really fun to design them.
+I would have also changed the event system to have a priority queue so I don't have to worry so much about
+what events are called in what order. 
